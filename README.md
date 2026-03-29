@@ -1,5 +1,3 @@
-[deepveer_resume (2).html](https://github.com/user-attachments/files/26332750/deepveer_resume.2.html)
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
